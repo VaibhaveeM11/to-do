@@ -1,0 +1,9 @@
+*{
+list-style: none;
+}
+h1{
+  text-align: center;
+}
+#todoInput{
+  width: 40%;
+}
